@@ -29,7 +29,7 @@ central_lat=40 # In degrees
 central_lon=-77 # In degrees
 extent=3 # How far from the central coordinates the plot will go (in degrees)
 
-script_directory='/Users/sambrandt/Desktop/Python/' # Directory that you are
+script_directory='Your Directory Here' # Directory that you are
                                                     # running this script in
 # Functions
 def calc_latlon(data):
